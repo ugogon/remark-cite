@@ -1,3 +1,5 @@
+# Fork
+This is a fork that adopts to the new micromark parser. If you want to install this version use: `npm install 'https://gitpkg.now.sh/ugogon/remark-cite/remark-cite?master'`
 # `remark-cite`
 
 Following [convention](https://github.com/micromark/micromark/discussions/56), this repository contains **three separate `npm` packages** related to support for [`pandoc`-style](https://pandoc.org/MANUAL.html#extension-citations) citation syntax for the `remark` Markdown parser.
