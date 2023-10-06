@@ -55,7 +55,7 @@
 		"unified": "^9.2.1"
 	},
 	"dependencies": {
-		"@benrbray/mdast-util-cite": "^1.0.1",
-		"@benrbray/micromark-extension-cite": "^1.0.0"
+		"@benrbray/mdast-util-cite": "https://gitpkg.now.sh/ugogon/remark-cite/mdast-util-cite?master",
+		"@benrbray/micromark-extension-cite": "https://gitpkg.now.sh/ugogon/remark-cite/micromark-extension-cite?master"
 	}
 }
